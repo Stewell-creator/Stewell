@@ -111,7 +111,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Collections of Stewell
     items:
       - type: FeaturedItem
         title: Stewell Dietary Sugar 200g
