@@ -211,7 +211,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Stewell Dietary Sugar 10kg
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
