@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'STAY SWEET, STAY HEALTHY'
+      text: STEWELL
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
