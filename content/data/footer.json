@@ -36,7 +36,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "altText": "",
+                "altText": "Features page",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
