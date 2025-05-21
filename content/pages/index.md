@@ -162,7 +162,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Stewell Dietary Sugar 1kg
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
