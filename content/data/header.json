@@ -21,15 +21,6 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Products",
             "altText": "Dropdown",
             "links": [
@@ -71,6 +62,15 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Careers",
+            "altText": "Careers page",
+            "url": "/careers",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "type": "Link",
