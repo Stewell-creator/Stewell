@@ -104,17 +104,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - title:
       text: List of features here
       color: text-dark
