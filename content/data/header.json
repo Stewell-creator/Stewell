@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Pricing",
+            "label": "Products",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
