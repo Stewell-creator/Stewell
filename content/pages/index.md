@@ -115,7 +115,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Stewell Dietary Sugar 200g
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
