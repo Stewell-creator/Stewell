@@ -96,7 +96,7 @@
         },
         {
             "type": "Link",
-            "label": "Customer service",
+            "label": "Help",
             "altText": "",
             "url": "/",
             "showIcon": false,
