@@ -111,7 +111,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Collections of Stewell
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Stewell Dietary Sugar 200g
