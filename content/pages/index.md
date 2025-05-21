@@ -105,7 +105,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: LIST OF PRODUCTS
       color: text-dark
       styles:
         self:
