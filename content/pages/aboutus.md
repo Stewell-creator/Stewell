@@ -186,16 +186,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-  - type: DividerSection
-    title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
   - type: GenericSection
     title:
       type: TitleBlock
@@ -238,6 +228,16 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
