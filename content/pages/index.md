@@ -26,7 +26,7 @@ sections:
     actions:
       - label: Read more
         altText: ''
-        url: /
+        url: /ourcompany
         showIcon: false
         icon: arrowRight
         iconPosition: right
