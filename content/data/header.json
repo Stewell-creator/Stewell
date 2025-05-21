@@ -21,13 +21,6 @@
             "type": "Link"
         },
         {
-            "type": "SubNav",
-            "label": "Products",
-            "altText": "",
-            "links": [],
-            "labelStyle": "secondary"
-        },
-        {
             "label": "Careers",
             "altText": "Careers page",
             "url": "/careers",
