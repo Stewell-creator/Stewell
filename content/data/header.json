@@ -96,7 +96,7 @@
         },
         {
             "type": "Link",
-            "label": "Help",
+            "label": "F",
             "altText": "",
             "url": "/",
             "showIcon": false,
