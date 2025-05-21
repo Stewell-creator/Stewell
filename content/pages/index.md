@@ -94,10 +94,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: This Is A Big Headline
-      color: text-dark
   - title: Divider
     colors: bg-dark-fg-light
     styles:
