@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-    subtitle: 'STAY SWEET, STAYY HEALTHY'
+    subtitle: 'STAY SWEET, STAY HEALTHY'
     text: >+
       Stewell is a Vietnamese brand of diet sugar, with the mission of bringing
       healthy sweetness to modern life. Born with the passion of nutritionists
