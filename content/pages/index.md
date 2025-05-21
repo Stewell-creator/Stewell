@@ -11,10 +11,23 @@ sections:
         self:
           fontWeight: 700
     subtitle: 'STAY SWEET, STAYY HEALTHY'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      ```
+
+      Stewell is a Vietnamese brand of diet sugar, with the mission of bringing
+      healthy sweetness to modern life. Born with the passion of nutritionists
+      and experienced manufacturers, Stewell uses Stevia extract - a natural
+      gift with zero calories - to create products that are both good for health
+      and retain their natural delicious taste. 
+
+
+      The brand targets active consumers who care about their health and want to
+      maintain a balanced lifestyle while still enjoying sweetness every day.
+
+      ```
+
+
+
     actions:
       - label: Get started
         altText: ''
