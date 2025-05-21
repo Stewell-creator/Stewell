@@ -266,7 +266,7 @@ sections:
           - pr-3
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: WHAT OUR CUSTOMERS SAY ABOUT US
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
