@@ -422,12 +422,6 @@ sections:
         tagline: ''
         subtitle: ''
         text: ''
-        image:
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
         actions: []
         colors: bg-dark-fg-light
         styles:
