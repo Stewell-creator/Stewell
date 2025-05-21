@@ -35,7 +35,7 @@
                 {
                     "label": "Stewell 500g",
                     "url": "/",
-                    "icon": "arrowRight",
+                    "icon": "arrowLeft",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
