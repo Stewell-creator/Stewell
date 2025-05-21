@@ -27,17 +27,6 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Stewell Dietary Sugar 500g",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
                     "label": "Stewell Dietary Sugar 1kg",
                     "altText": "",
                     "url": "/",
