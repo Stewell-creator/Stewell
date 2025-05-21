@@ -44,7 +44,7 @@
                     "label": "Stewell Dietary Sugar",
                     "url": "/",
                     "icon": "arrowLeft",
-                    "iconPosition": "right",
+                    "iconPosition": "left",
                     "style": "secondary",
                     "type": "Link"
                 },
