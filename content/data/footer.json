@@ -125,7 +125,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "*©* 2025 Powered by Stewell\n",
+    "copyrightText": "<div style=\"text-align: center\">*©* 2025 Powered by Stewell</div>\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
