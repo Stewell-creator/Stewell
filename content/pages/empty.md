@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Stewell Dietary Sugar 200g
+title: Stewell Dietary Sugar
 sections: []
 slug: empty
 isDraft: false
