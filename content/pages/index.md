@@ -31,7 +31,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: Read more
         altText: ''
         url: /
         showIcon: false
