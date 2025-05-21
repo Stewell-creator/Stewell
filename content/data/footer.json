@@ -91,7 +91,7 @@
             },
             {
                 "type": "Link",
-                "label": "See Tutorials",
+                "label": "Return",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
