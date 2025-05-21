@@ -64,7 +64,7 @@ sections:
           - pr-16
       subtitle:
         fontWeight: 700
-  - subtitle: ''
+  - subtitle: Certificated by Internation Organizations
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
