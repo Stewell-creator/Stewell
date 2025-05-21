@@ -23,7 +23,7 @@
         {
             "type": "SubNav",
             "label": "Products",
-            "altText": "Dropdown",
+            "altText": "",
             "links": [],
             "labelStyle": "secondary"
         },
