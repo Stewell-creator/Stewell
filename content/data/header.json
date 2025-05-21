@@ -24,19 +24,7 @@
             "type": "SubNav",
             "label": "Products",
             "altText": "Dropdown",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "Stewell Dietary Sugar 1kg",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
+            "links": [],
             "labelStyle": "secondary"
         },
         {
