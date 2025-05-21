@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Products
+title: About us
 sections: []
 slug: empty
 isDraft: false
