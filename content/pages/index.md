@@ -114,7 +114,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Stewell Dietary Sugar 200g
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
