@@ -106,7 +106,7 @@ sections:
     type: DividerSection
   - title:
       text: List of features here
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
