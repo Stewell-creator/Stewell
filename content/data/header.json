@@ -16,7 +16,7 @@
             "type": "Link",
             "label": "Home",
             "altText": "",
-            "url": "/home",
+            "url": "stewell.netlify.app/home/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
