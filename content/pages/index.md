@@ -11,25 +11,18 @@ sections:
         self:
           fontWeight: 700
     subtitle: 'STAY SWEET, STAY HEALTHY'
-    text: >+
-      Stewell is a Vietnamese brand of diet sugar, with the mission of bringing
-      healthy sweetness to modern life. Born with the passion of nutritionists
-      and experienced manufacturers, Stewell uses Stevia extract - a natural
-      gift with zero calories - to create products that are both good for health
-      and retain their natural delicious taste. The brand targets active
-      consumers who care about their health and want to maintain a balanced
-      lifestyle while still enjoying sweetness every day.
-
-
+    text: >
+      Stewell is a Vietnamese brand of dietary sugar, with the mission of
+      bringing healthy sweetness to modern life. Born with the passion of
+      nutritionists and experienced manufacturers, Stewell uses Stevia extract -
+      a natural gift with zero calories - to create products that are both good
+      for health and retain their natural delicious taste. The brand targets
+      active consumers who care about their health and want to maintain a
+      balanced lifestyle while still enjoying sweetness every day.
 
 
       What are you waiting for, let Stewell accompany you on your journey to
       live healthy - live sweet!
-
-
-
-
-
     actions:
       - label: Read more
         altText: ''
