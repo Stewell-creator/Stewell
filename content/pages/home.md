@@ -300,7 +300,7 @@ sections:
           "Stewell changed the game for my diet. Tastes just like sugar but
           healthier. Great for keto and diabetic-friendly meals. A pantry
           essential!"
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: John Doe
         text: ''
         image:
