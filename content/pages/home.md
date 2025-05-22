@@ -297,8 +297,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Stewell changed the game for my diet. Tastes just like sugar but
+          healthier. Great for keto and diabetic-friendly meals. A pantry
+          essential!"
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: ''
