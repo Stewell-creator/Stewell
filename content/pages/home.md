@@ -301,7 +301,7 @@ sections:
           healthier. Great for keto and diabetic-friendly meals. A pantry
           essential!"
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: John Doe
         text: ''
         image:
           url: /images/person-placeholder-light.png
