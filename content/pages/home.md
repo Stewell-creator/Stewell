@@ -329,7 +329,7 @@ sections:
           coffee and baking. No aftertaste like other sweeteners. Highly
           recommended!"
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: Maria Walters
         text: |
           ⭐⭐⭐⭐⭐
         image:
