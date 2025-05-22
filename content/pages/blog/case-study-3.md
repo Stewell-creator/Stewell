@@ -1,6 +1,6 @@
 ---
 title: >-
-  Stewell Named Green Brand of the Year" For Eco-Friendly Stevia Farming
+  Stewell Named "Green Brand of the Year" For Eco-Friendly Stevia Farming
   Practices
 slug: case-study-3
 date: '2025-03-28'
