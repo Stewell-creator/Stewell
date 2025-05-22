@@ -70,7 +70,7 @@ sections:
       posts.
     actions:
       - type: Link
-        label: See Tutorials
+        label: ''
         url: /
         showIcon: true
         icon: arrowRight
