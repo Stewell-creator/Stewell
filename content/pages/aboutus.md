@@ -68,7 +68,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 'Pure, safe and healthy products'
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
