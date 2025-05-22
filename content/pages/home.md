@@ -269,8 +269,9 @@ sections:
     subtitle: WHAT OUR CUSTOMERS SAY ABOUT US
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Absolutely love Stewell! It’s sweet without the guilt, perfect for my
+          coffee and baking. No aftertaste like other sweeteners. Highly
+          recommended!.”
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
