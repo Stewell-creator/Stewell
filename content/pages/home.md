@@ -362,7 +362,7 @@ sections:
           and doesn't spike my blood sugar. Great product for health-conscious
           people.”
         tagline: ''
-        subtitle: Thomas Brown
+        subtitle: Brian Liam
         text: |+
           ⭐⭐⭐⭐⭐
 
