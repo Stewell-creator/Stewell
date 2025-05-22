@@ -103,10 +103,12 @@ sections:
       - type: FeaturedItem
         title: 'Leading technology, quality products'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          With strict farming and harvesting processes, along with enzymatic
+          bioconversion technology, Stewell is committed to extracting high
+          quality Rebaudioside M essence, bringing the best experience and
+          ensuring the healthiest for customers.
+
         image:
           type: ImageBlock
           url: /images/icon2.svg
