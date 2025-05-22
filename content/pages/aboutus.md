@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: What is Stewell?
+      text: Who is Stewell?
       color: text-dark
       styles:
         self:
