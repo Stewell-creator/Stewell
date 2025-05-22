@@ -36,16 +36,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: DividerSection
-    title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
   - type: ImageGallerySection
     subtitle: Award winning enterprises trust us
     images:
