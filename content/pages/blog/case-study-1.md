@@ -1,5 +1,7 @@
 ---
-title: Case study 1
+title: >-
+  Leading the Way in Healthy Living: Stewell Wins Award for Sustainable Sugar
+  Alternatives
 slug: case-study-1
 date: '2023-01-05'
 excerpt: >-
