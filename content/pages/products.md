@@ -91,7 +91,7 @@ sections:
       self:
         alignItems: center
   - type: ImageGallerySection
-    subtitle: Award winning enterprises trust us
+    subtitle: CERTIFICATED BY INTERNATIONAL ORGANIZATIONS
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
