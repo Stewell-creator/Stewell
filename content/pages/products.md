@@ -8,14 +8,13 @@ sections:
       text: INTRODUCE STEWELL DIETARY SUGAR
       color: text-dark
     subtitle: ''
-    text: >+
-      Stewell Dietary Sugar is an ant sugar product with natural sweetness
+    text: >
+      Stewell Dietary Sugar is an dietary sugar product with natural sweetness
       extracted from stevia leaves (Stevia Rebaudiana). With the ability to
       naturally sweeten 250-300 times more than cane sugar but completely
       calorie-free, does not contain artificial sweeteners or sugar alcohols,
       Stewell Dietary Sugar is the optimal solution for people with
       cardiovascular diseases and obesity.
-
     actions: []
     media:
       type: ImageBlock
