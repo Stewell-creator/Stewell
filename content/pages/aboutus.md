@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >+
       At Stewell, we believe that sweetness does not have to come at the expense
       of health. Inspired by the stevia plant – a natural sweet herb grown in
