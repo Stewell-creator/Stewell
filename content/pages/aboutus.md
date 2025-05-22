@@ -60,7 +60,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: WHY YOU SHOULD CHOOSE US?
       color: text-dark
       styles:
         self:
