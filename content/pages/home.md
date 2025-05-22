@@ -388,9 +388,9 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Stewell changed the game for my diet. Tastes just like sugar but
-          healthier. Great for keto and diabetic-friendly meals. A pantry
-          essential!”
+          “Stewell tastes fantastic and blends perfectly in everything from
+          oatmeal to cakes. No bitterness at all. My go-to sweetener for healthy
+          living!”
         tagline: ''
         subtitle: Thomas Brown
         text: |+
