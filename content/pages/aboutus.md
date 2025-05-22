@@ -11,11 +11,17 @@ sections:
         self:
           textAlign: center
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      At Stewell, we believe that sweetness does not have to come at the expense
+      of health. Inspired by the stevia plant – a natural sweet herb grown in
+      Vietnam – Stewell was founded in 2025 with the mission of providing a
+      healthy alternative sugar solution suitable for every modern lifestyle.
+
+
+
+
+
+
     actions: []
     media:
       type: VideoBlock
