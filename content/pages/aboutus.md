@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: '------------- Since 2025 --------------'
+    subtitle: '------------- Since 2020 --------------'
     text: |
       Let's find out who are we!
     actions: []
