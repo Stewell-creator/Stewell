@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Unblock your team boost your time to production
+      text: INTRODUCE STEWELL DIETARY SUGAR
       color: text-dark
     subtitle: Subtitle goes here
     text: >
