@@ -42,9 +42,14 @@ sections:
       text: INGREDIENTS
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Stewell Dietary Sugar combines high-purity Stevia extract with naturally
+      derived Erythritol to create a zero-calorie sugar with a naturally sweet
+      taste. Rebaudioside M, one of the steviol glycosides extracted from
+      stevia, ensures a clean, smooth sweet taste without a bitter aftertaste.
+      This is the perfect ingredient for those looking for a healthier
+      plant-based alternative to regular sugar.
+
     actions: []
     media:
       type: ImageBlock
