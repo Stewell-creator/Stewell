@@ -384,8 +384,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "This Stevia-based sweetener is amazing! I use it every day in tea and
+          smoothies. No calories, no chemicals—just pure, natural sweetness."
         tagline: ''
         subtitle: John Doe
         text: |+
