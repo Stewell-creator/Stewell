@@ -622,7 +622,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-slug: /products200gr
+slug: /StewellDietarySugar200gr
 seo:
   type: Seo
   metaTitle: Home - Demo site
