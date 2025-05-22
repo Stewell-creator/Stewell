@@ -130,10 +130,10 @@ sections:
       - type: FeaturedItem
         title: Diversity of designs
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Stewell owns products with different net weights, ensuring to meet the
+          consumption needs of businesses.
+
         image:
           type: ImageBlock
           url: /images/icon3.svg
