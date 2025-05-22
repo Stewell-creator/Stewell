@@ -36,6 +36,17 @@
             "altText": "Dropdown",
             "links": [
                 {
+                    "type": "Link",
+                    "label": "See Tutorials",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": ""
+                },
+                {
                     "label": "Stewell 200g",
                     "url": "/stewelldietarysugar200g",
                     "icon": "arrowRight",
@@ -75,17 +86,6 @@
                     "label": "Stewell 10kg",
                     "altText": "",
                     "url": "/stewelldietarysugar10kg",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "primary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "See Tutorials",
-                    "altText": "",
-                    "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
