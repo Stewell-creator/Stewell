@@ -1,6 +1,6 @@
 ---
 title: >-
-  Leading the Way in Healthy Living: Stewell Wins Award for Sustainable Sugar
+  Leading The Way In Healthy Living: Stewell Wins Award For Sustainable Sugar
   Alternatives
 slug: case-study-1
 date: '2023-01-05'
