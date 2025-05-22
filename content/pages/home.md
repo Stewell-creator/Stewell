@@ -392,7 +392,7 @@ sections:
           oatmeal to cakes. No bitterness at all. My go-to sweetener for healthy
           living!”
         tagline: ''
-        subtitle: Thomas Brown
+        subtitle: Annie Chirstopher
         text: |+
           ⭐⭐⭐⭐⭐
 
