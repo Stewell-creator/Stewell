@@ -174,7 +174,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: STEWELL'S FILM
       color: text-dark
       styles:
         self:
