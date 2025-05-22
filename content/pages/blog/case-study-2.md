@@ -1,5 +1,5 @@
 ---
-title: Stewell - Top 5 Health-Conscious Brand Transforming the Sweetener Industry
+title: Stewell - Top 5 Health-Conscious Brand Transforming The Sweetener Industry
 slug: case-study-2
 date: '2024-06-16'
 excerpt: >-
