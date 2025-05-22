@@ -271,7 +271,7 @@ sections:
       - title: >-
           “Absolutely love Stewell! It’s sweet without the guilt, perfect for my
           coffee and baking. No aftertaste like other sweeteners. Highly
-          recommended!.”
+          recommended!”
         tagline: ''
         subtitle: Maria Walters
         text: >-
