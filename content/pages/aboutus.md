@@ -70,10 +70,15 @@ sections:
       - type: FeaturedItem
         title: 'Pure, safe and healthy products'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Stewell is proud to bring a modern healthy sweet solution with 100%
+          natural sweetener from stevia leaves, without using any artificial
+          sweeteners or sugar alcohols, completely calorie-free and does not
+          increase blood sugar.
+
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
