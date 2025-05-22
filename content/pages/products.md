@@ -14,7 +14,7 @@ sections:
       git commit, git workflows and collaboration just work.
     actions:
       - type: Button
-        label: Get started
+        label: ''
         altText: ''
         url: /
         showIcon: false
