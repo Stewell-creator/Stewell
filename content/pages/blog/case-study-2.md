@@ -1,5 +1,7 @@
 ---
-title: Case study 2
+title: >-
+  Stewell Recognized as a Top Health-Conscious Brand Transforming the Sweetener
+  Industry
 slug: case-study-2
 date: '2024-06-16'
 excerpt: >-
