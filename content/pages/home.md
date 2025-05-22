@@ -330,7 +330,7 @@ sections:
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: |
-          ![](/images/Screenshot%202025-05-22%20201949.png)
+          ⭐⭐⭐⭐⭐
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
