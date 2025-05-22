@@ -39,7 +39,7 @@
                     "type": "Link",
                     "label": "Our products",
                     "altText": "",
-                    "url": "/",
+                    "url": "/products",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
