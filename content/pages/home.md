@@ -358,9 +358,9 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: >-
-          “Stewell changed the game for my diet. Tastes just like sugar but
-          healthier. Great for keto and diabetic-friendly meals. A pantry
-          essential!”
+          “Finally found a sugar alternative I enjoy. Stewell is smooth, clean,
+          and doesn't spike my blood sugar. Great product for health-conscious
+          people.”
         tagline: ''
         subtitle: Thomas Brown
         text: |+
