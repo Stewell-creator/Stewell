@@ -1,6 +1,6 @@
 ---
 title: Products
-slug: /blog
+slug: /products
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
