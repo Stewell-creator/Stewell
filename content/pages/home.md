@@ -354,8 +354,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Stewell changed the game for my diet. Tastes just like sugar but
+          healthier. Great for keto and diabetic-friendly meals. A pantry
+          essential!”
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: |+
