@@ -174,7 +174,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: STEWELL'S FILM
+      text: What is Stewell?
       color: text-dark
       styles:
         self:
