@@ -269,34 +269,6 @@ sections:
     subtitle: WHAT OUR CUSTOMERS SAY ABOUT US
     items:
       - title: >-
-          "Stewell changed the game for my diet. Tastes just like sugar but
-          healthier. Great for keto and diabetic-friendly meals. A pantry
-          essential!"
-        tagline: ''
-        subtitle: John Doe
-        text: ''
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
           “Absolutely love Stewell! It’s sweet without the guilt, perfect for my
           coffee and baking. No aftertaste like other sweeteners. Highly
           recommended!"
