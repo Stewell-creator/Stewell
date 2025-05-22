@@ -386,6 +386,36 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: >-
+          “Stewell changed the game for my diet. Tastes just like sugar but
+          healthier. Great for keto and diabetic-friendly meals. A pantry
+          essential!”
+        tagline: ''
+        subtitle: Thomas Brown
+        text: |+
+          ⭐⭐⭐⭐⭐
+
+        image:
+          type: ImageBlock
+          url: /images/person-placeholder-light.png
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
     elementId: null
     variant: next-prev-nav
     colors: bg-light-fg-dark
