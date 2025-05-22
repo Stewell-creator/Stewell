@@ -71,8 +71,12 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      At Stewell, we apply advanced enzymatic bioconversion technology to
+      produce high-purity Rebaudioside M from Stevia leaves. This cutting-edge
+      process uses natural enzymes to convert steviol glycosides into
+      better-tasting, more stable sweetener compounds. The result is a cleaner,
+      sugar-like taste with no bitterness, setting a new standard for natural
+      sweeteners in both quality and sustainability.
     actions: []
     media:
       type: ImageBlock
