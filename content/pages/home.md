@@ -358,7 +358,7 @@ sections:
           healthier. Great for keto and diabetic-friendly meals. A pantry
           essential!”
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: Thomas Brown
         text: |+
           ⭐⭐⭐⭐⭐
 
