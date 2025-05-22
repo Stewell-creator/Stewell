@@ -39,7 +39,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Key Benefits
+      label: 'STEWELL - STAY SWEET, STAY WELL'
       color: text-primary
       styles:
         self:
