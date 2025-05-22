@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Products 200gr
+title: StewellDietarySugar200gr
 sections:
   - type: GenericSection
     title:
