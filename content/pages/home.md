@@ -243,17 +243,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: CarouselSection
     title: null
     subtitle: WHAT OUR CUSTOMERS SAY ABOUT US
