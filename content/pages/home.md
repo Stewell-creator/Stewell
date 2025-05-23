@@ -139,7 +139,7 @@ sections:
           healthier. Great for keto and diabetic-friendly meals. A pantry
           essential!”
         tagline: ''
-        subtitle: Thomas Brown
+        subtitle: Maria Walters
         text: |+
           ⭐⭐⭐⭐⭐
 
