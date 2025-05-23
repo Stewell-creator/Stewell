@@ -60,7 +60,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: WHY YOU SHOULD CHOOSE US?
+      text: WHY SHOULD YOU CHOOSE US?
       color: text-dark
       styles:
         self:
