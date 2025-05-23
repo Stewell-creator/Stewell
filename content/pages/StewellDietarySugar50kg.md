@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: StewellDietarySugar5kg
+title: StewellDietarySugar50kg
 sections:
   - type: FeaturedItemsSection
     title:
