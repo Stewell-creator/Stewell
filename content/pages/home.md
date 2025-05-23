@@ -68,6 +68,7 @@ sections:
     images:
       - altText: Empathy logo
         type: ImageBlock
+        url: /images/Chưa có tên (80 x 80 px) (7).png
       - url: /images/Chưa có tên (80 x 80 px) (2).png
         altText: Wellster logo
         type: ImageBlock
