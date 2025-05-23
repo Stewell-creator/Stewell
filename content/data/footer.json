@@ -19,7 +19,7 @@
             },
             {
                 "label": "Products",
-                "url": "/pricing",
+                "url": "/products",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
