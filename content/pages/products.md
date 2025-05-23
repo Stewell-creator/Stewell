@@ -80,7 +80,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Productpage_Key_features_2400x1600_Sugarlyzer_5000.jpg
       altText: Fun feature preview
     badge:
       type: Badge
