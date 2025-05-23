@@ -77,12 +77,6 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-
-
-
-
-
-
           Product name: Stewell Dietary Sugar – Dietary Sugar Made From Stevia
 
 
@@ -90,7 +84,7 @@ sections:
           Sugar
 
 
-          Net Weight: 5kg (176.37oz)
+          Net Weight: 20kg (705.48oz)
         image:
           type: ImageBlock
           url: /images/5KG.png
