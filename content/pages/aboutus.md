@@ -136,7 +136,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/Chưa có tên (80 x 80 px) (11).png
           altText: Placeholder image
           elementId: ''
         actions: []
