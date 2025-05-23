@@ -11,7 +11,7 @@
             {
                 "label": "About us",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/aboutus",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
