@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: PRODUCTS
+      text: STEWELL DIETARY SUGAR SIZE 5KG
       color: text-dark
       styles:
         self:
