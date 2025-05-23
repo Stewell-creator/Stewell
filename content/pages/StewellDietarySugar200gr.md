@@ -66,7 +66,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: PRODUCT INFORMATION
     items:
       - type: FeaturedItem
         title: >-
