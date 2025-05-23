@@ -109,6 +109,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: PRODUCT INFORMATION
   - type: GenericSection
     title:
       type: TitleBlock
