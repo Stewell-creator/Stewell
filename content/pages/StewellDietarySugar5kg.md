@@ -85,7 +85,7 @@ sections:
           Net Weight: 5kg (176.37oz)
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/5KG.png
           altText: Maria Walters
           styles:
             self:
