@@ -74,8 +74,6 @@ sections:
       - url: /images/Chưa có tên (80 x 80 px) (3).png
         altText: Vise logo
         type: ImageBlock
-      - altText: Telus logo
-        type: ImageBlock
       - url: /images/Chưa có tên (80 x 80 px) (4).png
         altText: Contentful logo
         type: ImageBlock
