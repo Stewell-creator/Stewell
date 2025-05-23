@@ -75,11 +75,11 @@ sections:
       text: CONTACT US FOR ORDERING
       color: text-dark
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Please leave a message for us by filling out this form. Due to time zone
+      differences, we can not respond to you immediately. But we will reply to
+      you as soon as possible within 24 hours. Thanks for contacting us!
+
     actions: []
     media:
       type: FormBlock
