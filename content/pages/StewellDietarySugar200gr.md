@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: StewellDietarySugar200gr
+title: StewellDietarySugar5kg
 sections:
   - type: FeaturedItemsSection
     title:
