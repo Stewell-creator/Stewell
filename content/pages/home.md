@@ -205,7 +205,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Stewell Dietary Sugar 10kg
+        title: Stewell Dietary Sugar 100kg
         subtitle: ''
         image:
           type: ImageBlock
