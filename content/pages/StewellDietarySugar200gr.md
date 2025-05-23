@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: STEWELL DIETARY SUGAR SIZE 5KG
-        subtitle: 'Price: contact us'
+        subtitle: 'PRICE: CONTACT US'
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
           the perfect look for you.
