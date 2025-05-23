@@ -137,7 +137,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: PRODUCT INFORMATION
       color: text-dark
   - type: GenericSection
     title:
