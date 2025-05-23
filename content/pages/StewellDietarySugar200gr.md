@@ -12,7 +12,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: STEWELL DIETARY SUGAR SIZE 5KG
         subtitle: $ 88 – $ 176
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
