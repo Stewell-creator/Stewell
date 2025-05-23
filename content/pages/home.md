@@ -112,7 +112,7 @@ sections:
         text: |
           ⭐⭐⭐⭐⭐
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Chưa có tên (80 x 80 px) (12).png
           altText: Maria Walters
           styles:
             self:
