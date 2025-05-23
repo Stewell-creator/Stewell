@@ -209,7 +209,7 @@ sections:
       label: ''
       color: text-primary
     colors: bg-light-fg-dark
-slug: /StewellDietarySugar200gr
+slug: /StewellDietarySugar5kg
 seo:
   type: Seo
   metaTitle: Home - Demo site
