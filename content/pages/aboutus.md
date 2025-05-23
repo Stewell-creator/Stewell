@@ -81,7 +81,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/Chưa có tên (80 x 80 px) (8).png
           altText: Placeholder image
           elementId: ''
           styles:
