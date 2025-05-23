@@ -79,7 +79,7 @@ sections:
       - url: /images/Chưa có tên (80 x 80 px) (4).png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/Chưa có tên (80 x 80 px) (5).png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/Chưa có tên (80 x 80 px) (1).png
