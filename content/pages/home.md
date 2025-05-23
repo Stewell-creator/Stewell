@@ -157,7 +157,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Stewell Dietary Sugar 1kg
+        title: Stewell Dietary Sugar 20kg
         subtitle: ''
         image:
           type: ImageBlock
