@@ -110,6 +110,10 @@ sections:
       subtitle:
         textAlign: center
     subtitle: ''
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: GenericSection
     title:
       type: TitleBlock
