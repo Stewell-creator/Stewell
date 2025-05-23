@@ -111,10 +111,7 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "NUTRITION FACTS:\n\n*   Calories: 0 kcal - 0%\n\n*   Natri (Sodium): 0 mg - 0%\n\n*   Total Fat: 0 g - 0%\n\n*   Total Carbohydrates: 0g -> (Sugar: 0g; Fiber: 0g) 0%\n\n*   Protein: 0g - 0%\n\n*   Ingredients: Erythritol (natural sugar alcohol), Stevia extract (Rebaudioside M ≥ 97%)\n\n*   Low-energy foods\n\n*   Certifications: Halal, USDA Organic, ISO 22000:2018, HACCP, Non-GMO, ISO 9001:2000\n\nMade in Vietnam\n\nManufactured by: Stewell Food Co., Ltd.\_ (27 Tan My Street, Tan Thuan Tay Ward, District 7, Ho Chi Minh City, Vietnam)\n\nManufacturing Date (MFG): 20 / 05 / 2025\n\nExpiry Date (EXP): 2 years from the manufacturing date\n\nDirections for use: Consume a maximum of 20–25 g per day (approximately 1–2 level tablespoons)\n\nCaution: Children under 2 years old, pregnant or breastfeeding women, and individuals following a low-energy diet should consult a healthcare professional or doctor before use\n\nStorage: Store in a cool, dry place away from direct sunlight and out of reach of children. Reseal the package after use to prevent moisture absorption and caking\n\n\n\n"
         image:
           type: ImageBlock
           url: /images/sau.png
