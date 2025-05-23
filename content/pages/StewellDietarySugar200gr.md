@@ -15,14 +15,10 @@ sections:
         title: STEWELL DIETARY SUGAR SIZE 5KG
         subtitle: 'PRICE: CONTACT US'
         text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
+          Stewell diet sugar is made from Stevia, a completely natural product,
+          extracted 100% from stevia leaves - a herb native to South America,
+          famous for being 200-300 times sweeter than cane sugar but contains no
+          calories.
 
 
 
