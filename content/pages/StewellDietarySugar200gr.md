@@ -100,7 +100,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: CONTACT US FOR ORDERING
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
