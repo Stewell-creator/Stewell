@@ -112,7 +112,9 @@ sections:
         text: |
           ⭐⭐⭐⭐⭐
         image:
-          url: /images/Chưa có tên (80 x 80 px) (12).png
+          url: >-
+            /images/White Orange Modern Torn Paper Effect Tour and Travel
+            Presentation.jpg
           altText: Maria Walters
           styles:
             self:
