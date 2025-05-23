@@ -71,7 +71,7 @@ sections:
       - url: /images/Chưa có tên (80 x 80 px) (2).png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Chưa có tên (80 x 80 px) (3).png
         altText: Vise logo
         type: ImageBlock
       - altText: Telus logo
