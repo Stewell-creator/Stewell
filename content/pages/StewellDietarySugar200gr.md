@@ -165,7 +165,7 @@ sections:
       type: Badge
       label: ''
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
 slug: /StewellDietarySugar200gr
 seo:
   type: Seo
