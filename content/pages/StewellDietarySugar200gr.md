@@ -72,7 +72,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: PRODUCT INFORMATION
       color: text-dark
       styles:
         self:
