@@ -239,7 +239,9 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: >-
+            /images/White Orange Modern Torn Paper Effect Tour and Travel
+            Presentation (3).jpg
           altText: Maria Walters
           styles:
             self:
