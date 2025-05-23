@@ -12,7 +12,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: STEWELL DIETARY SUGAR SIZE 5KG
+        title: STEWELL DIETARY SUGAR SIZE 100KG
         subtitle: 'PRICE: CONTACT US'
         text: >+
           Stewell diet sugar is made from Stevia, a completely natural product,
