@@ -95,7 +95,7 @@ sections:
           name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Your company
           isRequired: true
           width: full
         - type: EmailFormControl
