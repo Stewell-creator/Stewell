@@ -73,13 +73,17 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Product name: Stewell Dietary Sugar – Dietary Sugar Made From Stevia
 
+
+
+
+
+
+          Product name: Stewell Dietary Sugar – Dietary Sugar Made From Stevia
 
 
           Commitment: 100% Pure Stevia Extract | Naturally White Like Refined
           Sugar
-
 
 
           Net Weight: 5kg (176.37oz)
