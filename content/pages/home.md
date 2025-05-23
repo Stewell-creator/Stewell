@@ -84,7 +84,7 @@ sections:
         altText: Rangle logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Chưa có tên (80 x 80 px) (6).png
         altText: Image alt text placeholder
         elementId: ''
         styles:
