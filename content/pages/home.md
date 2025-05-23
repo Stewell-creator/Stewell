@@ -66,8 +66,7 @@ sections:
         fontWeight: 700
   - subtitle: CERTIFICATED BY INTERNATIONAL ORGANIZATIONS
     images:
-      - url: /images/halal.png
-        altText: Empathy logo
+      - altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
