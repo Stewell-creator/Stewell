@@ -109,7 +109,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Stewell Dietary Sugar 200g
+        title: Stewell Dietary Sugar 5kg
         subtitle: ''
         image:
           type: ImageBlock
