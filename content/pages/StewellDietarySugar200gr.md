@@ -69,7 +69,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: Feature 1
+        tagline: ''
         subtitle: ''
         text: >
           Product name: Stewell Dietary Sugar – Dietary Sugar Made From Stevia
