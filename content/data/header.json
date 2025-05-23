@@ -1,34 +1,103 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/Chưa có tên (80 x 80 px).png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "type": "Link",
+            "label": "Home",
+            "altText": "",
+            "url": "/home",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "label": "About us",
+            "url": "/aboutus",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "label": "Products",
+            "altText": "Dropdown",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Our products",
+                    "altText": "",
+                    "url": "/products",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": ""
+                },
+                {
+                    "label": "Stewell 5kg",
+                    "url": "/StewellDietarySugar5kg",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link"
+                },
+                {
+                    "label": "Stewell 10kg",
+                    "url": "/StewellDietarySugar10kg",
+                    "icon": "arrowLeft",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link"
+                },
+                {
+                    "label": "Stewell 20kg",
+                    "url": "/StewellDietarySugar20kg",
+                    "icon": "arrowLeft",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "type": "Link"
+                },
+                {
+                    "type": "Link",
+                    "label": "Stewell 50kg",
+                    "altText": "",
+                    "url": "/StewellDietarySugar50kg",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Stewell 100kg",
+                    "altText": "",
+                    "url": "/StewellDietarySugar100kg",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary",
+            "type": "SubNav"
         },
         {
-            "label": "Careers",
+            "label": "Sales",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,36 +106,26 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "type": "Link",
+            "label": "Contact",
+            "altText": "",
+            "url": "/products",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Support",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
@@ -89,6 +148,6 @@
         }
     ],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-neutral-fg-dark",
     "type": "Header"
 }

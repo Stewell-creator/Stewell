@@ -1,14 +1,14 @@
 ---
-title: Case study 2
+title: Stewell - Top 5 Health-Conscious Brand Transforming The Sweetener Industry
 slug: case-study-2
-date: '2022-02-16'
+date: '2024-06-16'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: '/images/ChatGPT Image 22_03_58 23 thg 5, 2025.png'
   altText: Case study 2
   styles:
     self:

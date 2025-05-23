@@ -1,46 +1,68 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Chưa có tên (80 x 80 px).png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "**STEWELL FOOD CO. LTD**\n\nContact Information\n\nHotline: 1900 803 816\n\nEmail: <stewellfood@gmail.com>\n\nWebsite: <https://stewell.netlify.app/>\n\nRepresentative Office: 27 Tan My Street, Tan Thuan Tay Ward, District 7, Ho Chi Minh City\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "COMPANY",
         "links": [
             {
-                "label": "Features",
+                "label": "About us",
+                "altText": "Features page",
+                "url": "/aboutus",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Products",
+                "url": "/products",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Sales",
+                "url": "/",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
                 "altText": "Features page",
                 "url": "/",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
+                "type": "Link",
+                "label": "Support",
+                "altText": "",
                 "url": "/",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Policy",
         "links": [
             {
-                "label": "Careers",
+                "label": "Terms of Use",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
@@ -49,12 +71,34 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Privacy",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Shipping",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Return",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
@@ -63,7 +107,7 @@
         {
             "altText": "GitHub link",
             "url": "https://github.com/netlify",
-            "icon": "github",
+            "icon": "facebook",
             "type": "Social"
         },
         {
@@ -103,7 +147,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "<div style=\"text-align: center\">*©* 2025 Powered by Stewell</div>\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
